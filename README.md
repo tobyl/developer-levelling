@@ -4,6 +4,13 @@ Welcome to the Developer Levelling resources!
 
 Hub Customer Central recognizes four developer levels:
 
+| Level            | Abilities      |
+| ---------------- | -------------- |
+| Level I          | Junior         |
+| Level II         | Intermediate   |
+| Level III        | Advanced       |
+| Senior Developer | Expert         |
+
 - Level I
 - Level II
 - Leve III
