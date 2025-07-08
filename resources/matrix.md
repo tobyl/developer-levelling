@@ -1,13 +1,4 @@
-# Developer Progression Matrix
-
-Welcome to the HCC **Developer Progression Matrix**. The matrix helps to track the skills and attributes required to progress through the various levels. HCC currently recognizes four levels a developer can progress through:
-
-- Level I [more](#level-i)
-- Level II [more](#level-ii)
-- Level III [more](#level-iii)
-- Senior Developer [more](#senior-developer)
-
-## Skills Matrix
+# Skills Matrix
 
 A good way to quickly understand what we value at the various levels is to peruse the tables below. We separate into soft skills and hard skills, but we care about both equally, especially as developers move out of the two base levels.
 
@@ -15,7 +6,7 @@ A good way to quickly understand what we value at the various levels is to perus
 
 |                         | Level I       | Level II       | Level III       | Sr. Developer          |
 | ----------------------- | ------------- | -------------- | --------------- | ---------------------- |
-| Programming             | Basic         | Intermediate   | Advanced        | Expert                 |
+| Programming             | 1             | 2              | 3               | 4                      |
 | Framework & Platform    | ①            | ②              | ③              | ⑤                     |
 | Debugging               | ①            | ②              | ③              | ⑤                     |
 | Testing                 | ①            | ②              | ③              | ⑤                     |
@@ -29,7 +20,7 @@ A good way to quickly understand what we value at the various levels is to perus
 
 |                                | Level I       | Level II       | Level III       | Sr. Developer          |
 | ------------------------------ | ------------- | -------------- | --------------- | ---------------------- |
-| Communication                  | Basic         | Intermediate   | Advanced        | Expert                 |
+| Communication                  | 1             | 2              | 3               | 4                      |
 | Collaboration & Teamwork       | ①            | ②              | ③              | ⑤                     |
 | Adaptability                   | ①            | ②              | ③              | ⑤                     |
 | Productivity                   | ①            | ②              | ③              | ⑤                     |
@@ -41,28 +32,6 @@ A good way to quickly understand what we value at the various levels is to perus
 | Product & User Focus           | ①            | ②              | ③              | ⑤                     |
 | Time & Task Management         | ①            | ②              | ③              | ⑤                     |
 | Mentorship & Knowledge Sharing | ①            | ②              | ③              | ⑤                     |
-
-## Levels Overview
-
-Some more information about each level.
-
-### Level I
-
-Our level I devs are smart, motivated and eager to learn. They may be lacking experience and soft skills, but they're constantly growing and evolving. They typically work on a single app or product, occasionally contributing elsewhere when needed. They reach out for support as required, and aren't afraid to admit they're still lerning. Their knowledge of our company, industry and organization structure is minimal but growing quickly.
-
-### Level II
-
-Our level II devs are beginning to evolve. Development and code reviews are smoother and require less back and forth, and knowledge and experience are starting to increase. They're working on one or two products, and maybe even some supporting apps or infrastructure. They're starting to understand the bigger picture of how our organization functions and the areas of responsibility for teams within the company. They're still learning all the time, but it's more about experience and domain knowledge than programming concepts or frameworks. They're tackling more complex problems and finding good solutions and compromises.
-
-### Level III
-
-By the time our devs have reached level III they're experts in programming and the relevant frameworks. They move seamlessly and frictionlessly through our apps and products, and they're comfortable communicating and collaborating with other teams. They understand the organization and it's goals, and are actively helping to achieve them. They're as comfortable in meetings, helping to plan and organize the work as they are doing the work.
-
-As strong all rounders the're working on larger projects involving multiple apps or products, but you'll often find them helping out newer team members, reviewing pull requests or improving our apps' performance and security. THey're ready for a challenge, upbeat and crystal clear in their communication.  
-
-### Senior Developer
-
-Our senior developers are gods. We're not worthy! We're not worthy!
 
 ## Hard Skills rubric
 
